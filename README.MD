@@ -68,4 +68,4 @@ pip install pandas matplotlib kagglehub
 
 ## Observações finais
 
-Este README foi elaborado para apresentar o projeto de forma clara e objetiva a um público de nível analista de dados ou gestor de RH. O notebook contém a análise detalhada e as visualizações necessárias para comunicar os resultados.
+O notebook contém a análise detalhada e as visualizações necessárias para comunicar os resultados.
